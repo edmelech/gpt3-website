@@ -1,5 +1,7 @@
 import React from 'react'
 
+import { Footer, Blog, Possibility, Features, WhatGPT3 } from './containers'
+
 const App = () => {
   return (
     <div>
