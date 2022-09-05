@@ -19,7 +19,6 @@ const Blog = () => {
           <Article imgUrl={blog03} date='1st Sep, 2022' title="GPT3 and Open AI is the future. Let's explore it. "/>
           <Article imgUrl={blog04} date='1st Sep, 2022' title="GPT3 and Open AI is the future. Let's explore it. "/>
           <Article imgUrl={blog05} date='1st Sep, 2022' title="GPT3 and Open AI is the future. Let's explore it. "/>
-        </div>
       </div>
     </div>
   )
